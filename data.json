@@ -1,0 +1,228 @@
+{
+    "type": "market_info",
+    "currentTs": "1740631250455",
+    "marketInfo": {
+        "segmentStatus": {
+            "NCD_FO": "NORMAL_OPEN",
+            "BCD_FO": "NORMAL_OPEN",
+            "NSE_INDEX": "NORMAL_OPEN",
+            "NSE_EQ": "NORMAL_OPEN",
+            "BSE_INDEX": "NORMAL_OPEN",
+            "BSE_FO": "NORMAL_OPEN",
+            "MCX_FO": "NORMAL_OPEN",
+            "NSE_FO": "NORMAL_OPEN",
+            "NSE_COM": "NORMAL_OPEN",
+            "BSE_EQ": "NORMAL_OPEN",
+            "MCX_INDEX": "NORMAL_OPEN"
+        }
+    }
+}
+{
+    "feeds": {
+        "NSE_INDEX|Nifty Bank": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 48898.7,
+                        "ltt": "1740631251000",
+                        "cp": 48608.35
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 48732.2,
+                                "high": 48972.55,
+                                "low": 48732.2,
+                                "close": 48898.7,
+                                "ts": "1740594600000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 48895.3,
+                                "high": 48923.5,
+                                "low": 48895.1,
+                                "close": 48901.45,
+                                "ts": "1740631140000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        },
+        "NSE_INDEX|Nifty 50": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 22546.0,
+                        "ltt": "1740631251000",
+                        "cp": 22547.55
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 22568.95,
+                                "high": 22613.3,
+                                "low": 22530.0,
+                                "close": 22546.0,
+                                "ts": "1740594600000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 22545.55,
+                                "high": 22552.45,
+                                "low": 22545.1,
+                                "close": 22548.95,
+                                "ts": "1740631140000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        }
+    },
+    "currentTs": "1740631251550"
+}
+{
+    "type": "live_feed",
+    "feeds": {
+        "NSE_INDEX|Nifty Bank": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 48893.1,
+                        "ltt": "1740631251000",
+                        "cp": 48608.35
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 48732.2,
+                                "high": 48972.55,
+                                "low": 48732.2,
+                                "close": 48893.1,
+                                "ts": "1740594600000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 48895.3,
+                                "high": 48923.5,
+                                "low": 48895.1,
+                                "close": 48901.45,
+                                "ts": "1740631140000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        },
+        "NSE_INDEX|Nifty 50": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 22545.4,
+                        "ltt": "1740631251000",
+                        "cp": 22547.55
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 22568.95,
+                                "high": 22613.3,
+                                "low": 22530.0,
+                                "close": 22545.4,
+                                "ts": "1740594600000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 22545.55,
+                                "high": 22552.45,
+                                "low": 22545.1,
+                                "close": 22548.95,
+                                "ts": "1740631140000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        }
+    },
+    "currentTs": "1740631251858"
+}
+{
+    "type": "live_feed",
+    "feeds": {
+        "NSE_INDEX|Nifty Bank": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 48892.45,
+                        "ltt": "1740631252000",
+                        "cp": 48608.35
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 48732.2,
+                                "high": 48972.55,
+                                "low": 48732.2,
+                                "close": 48892.45,
+                                "ts": "1740594600000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 48895.3,
+                                "high": 48923.5,
+                                "low": 48895.1,
+                                "close": 48901.45,
+                                "ts": "1740631140000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        },
+        "NSE_INDEX|Nifty 50": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 22544.35,
+                        "ltt": "1740631252000",
+                        "cp": 22547.55
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 22568.95,
+                                "high": 22613.3,
+                                "low": 22530.0,
+                                "close": 22544.35,
+                                "ts": "1740594600000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 22545.55,
+                                "high": 22552.45,
+                                "low": 22545.1,
+                                "close": 22548.95,
+                                "ts": "1740631140000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        }
+    },
+    "currentTs": "1740631252307"
+}
